@@ -3,4 +3,4 @@ git reset --hard 版本号
 git status
 git add .
 git commit -m"info"
-git push -f(m) origin master
+git push （-f） origin master
